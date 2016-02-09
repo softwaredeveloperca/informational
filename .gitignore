@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+.env
+/config/database.php.bak
+/build/logs
+/build/coverage
+/app/tests/_log
+composer.phar
+.DS_Store
+/.idea
+/_ide_helper.php
+/app/config/packages
+/public/packages
